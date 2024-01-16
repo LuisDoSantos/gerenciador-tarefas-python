@@ -45,6 +45,3 @@ Este projeto consiste em um aplicativo de linha de comando (CLI) em Python para 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
